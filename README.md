@@ -1,5 +1,3 @@
 # Java-Studies
-My journey in java. 
-I'm trying my best for achieving my porpuse
-This is my my real journey
-Hello world, welcome to my real life
+This is the begginning of my journey in java
+I hope you enjoy all this work with me my friend
